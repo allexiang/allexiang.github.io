@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://allexiang.github.io/sitemap.xml

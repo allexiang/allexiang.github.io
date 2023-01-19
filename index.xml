@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Even - A super concise theme for Hugo</title>
+    <link>https://allexiang.github.io/</link>
+    <description>Recent content on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 18 Jan 2023 23:39:52 +0000</lastBuildDate><atom:link href="https://allexiang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HelloWorld</title>
+      <link>https://allexiang.github.io/post/helloworld/</link>
+      <pubDate>Wed, 18 Jan 2023 23:39:52 +0000</pubDate>
+      
+      <guid>https://allexiang.github.io/post/helloworld/</guid>
+      <description>Hello World!</description>
+    </item>
+    
+  </channel>
+</rss>
